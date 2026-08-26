@@ -1,8 +1,12 @@
-lipsalinCreations Full Multi-Page Website
-Pages: Home, Songs & Lyrics, Devotional, Videos, About, Contact.
+# lipsalinCreations Website
 
-Before publishing:
-1. Replace every https://www.youtube.com/ with your real YouTube channel/video URLs.
-2. Add your own thumbnails and song links to videos.html.
-3. Connect contact.html to an email/form service if you want messages to be delivered.
-4. Upload all files together to your web host.
+A responsive one-page website for the lipsalinCreations brand.
+
+## Files
+- index.html — complete website
+
+## Before publishing
+Replace the two `https://www.youtube.com/` links in `index.html` with your actual YouTube channel URL.
+
+## Publish
+Upload `index.html` to any static website host or web hosting account. No database is required.
